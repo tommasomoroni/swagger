@@ -12,6 +12,9 @@ produces:
 
 basePath: /swagger-web/ocs
 
+schemes:
+  - https
+
 paths:
   /user/login:
     post:
